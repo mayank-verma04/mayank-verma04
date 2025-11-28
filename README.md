@@ -56,7 +56,7 @@
 
 ## 🔥 Contribution Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mayank-verma04&theme=radical&border_radius=5" />
+  <img src="https://streak-stats.demolab.com?username=mayank-verma04&theme=radical&border_radius=5" />
 </p>
 
 ---
