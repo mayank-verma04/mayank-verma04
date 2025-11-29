@@ -65,7 +65,6 @@
 ## 📈 GitHub Analytics 
 <p align="center">
   <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mayank-verma04&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=mayank-verma04&layout=compact&theme=radical" height="160"/>
 </p>
 
 
