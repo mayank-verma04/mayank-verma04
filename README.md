@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Mayank Verma</h1>
-<h3 align="center">Backend Developer | Full-Stack Developer | Software Engineer</h3>
+<h3 align="center">Backend Developer | Full-Stack Developer </h3>
 
 
 
