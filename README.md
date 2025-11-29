@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Modern Rectangular Style)
+## 🛠️ Tech Stack
 
 ### **🔹 Languages**
 <p>
