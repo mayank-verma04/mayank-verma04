@@ -64,25 +64,27 @@
 
 ---
 
-## 📈 GitHub Analytics (Working)
+## 📈 GitHub Analytics 
 <p align="center">
-  <img src="https://github-readme-stats-mayank.vercel.app/api?username=mayank-verma04&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats-mayank.vercel.app/api/top-langs/?username=mayank-verma04&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayank-verma04&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-verma04&layout=compact&theme=radical" height="160"/>
 </p>
+
 
 ---
 
-## 🔥 Contribution Streak (Working)
+## 🔥 Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mayank-verma04&theme=radical&border_radius=5" />
 </p>
 
 ---
 
-## 🧊 3D Contribution Graph (Working)
+## 🧊 3D Contribution Graph 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-night-rainbow.svg" width="700" />
+  <img src="https://raw.githubusercontent.com/0xYashN/3D-Contrib/main/profile-night-rainbow.svg" width="700" />
 </p>
+
 
 ---
 
