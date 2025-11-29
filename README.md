@@ -1,6 +1,6 @@
-<!-- Animated Banner -->
+<!-- Static Banner (Appears Once, No Loop) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Mayank+Verma;Backend+Developer;Full+Stack+Developer;API+Engineer;Node.js+%7C+Distributed+Systems+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=100000000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Mayank+Verma;Backend+Developer;Full+Stack+Developer" />
 </p>
 
 <!-- SVG Wave Background -->
@@ -8,13 +8,10 @@
 
 ---
 
-<h1 align="center">🌙 Dark-Mode Developer Profile</h1>
-
 ## 🚀 About Me  
 - 💻 Passionate about **Backend Development & API Engineering**  
 - ⚙️ Designing **high-performance scalable systems**  
 - 🚀 Mastering **Node.js, Databases & Cloud Architecture**  
-- 💡 Exploring **Distributed Systems & Microservices**  
 - 🤝 Collaborating on **backend, full-stack & OSS projects**  
 - 📬 Reach me → **mayankmayank1225@gmail.com**
 
@@ -67,24 +64,24 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics (Working)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayank-verma04&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-verma04&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-mayank.vercel.app/api?username=mayank-verma04&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-mayank.vercel.app/api/top-langs/?username=mayank-verma04&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Streak (Working)
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mayank-verma04&theme=radical&border_radius=5" />
 </p>
 
 ---
 
-## 🧊 3D Contribution Graph  
+## 🧊 3D Contribution Graph (Working)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-night-view.svg" width="700" />
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-night-rainbow.svg" width="700" />
 </p>
 
 ---
