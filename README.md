@@ -2,21 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Verma</h1>
 <h3 align="center">Backend Developer | Full-Stack Developer | Software Engineer</h3>
 
-<p align="center">
-  <a href="mailto:mayankmayank1225@gmail.com">
-    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/mayank-verma04">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/mayank-verma04">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayank-verma04&style=for-the-badge&color=red" />
-</p>
 
 ---
 
