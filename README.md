@@ -20,7 +20,6 @@
 ### **🔹 Languages**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c" />
