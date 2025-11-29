@@ -80,11 +80,6 @@
 
 ---
 
-## 🧊 3D Contribution Graph 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/master/profile-night-rainbow.svg" width="700" />
-</p>
-
 
 
 ---
