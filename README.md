@@ -44,22 +44,19 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
 </p>
 
----
-
 ## 📈 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayank-verma04&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?mayank-verma04&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-verma04&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
 ## 🔥 Contribution Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?username=mayank-verma04&theme=radical&border_radius=5" />
+  <img src="https://streak-stats.demolab.com?user=mayank-verma04&theme=radical&border_radius=5" />
 </p>
 
----
 
 ## 🚀 Featured Projects
 - 🔥 **Todo App (MERN + JWT + REST API)**
