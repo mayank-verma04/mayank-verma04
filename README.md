@@ -56,7 +56,6 @@
   <img src="https://streak-stats.demolab.com?user=mayank-verma04&theme=radical&border_radius=5" />
 </p>
 
-
 ## 🚀 Featured Projects
 - 🔥 **Todo App (MERN + JWT + REST API)**
 - 📝 **Blog App (Node.js + EJS + MongoDB)**
